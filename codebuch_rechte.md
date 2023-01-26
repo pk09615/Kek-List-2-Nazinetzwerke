@@ -61,3 +61,12 @@ Art der Beteiligung
 **country** 
 Nationalität
 ##
+
+
+**Zeitplan**
+Eventuelle Aufteilung nach der ersten Recherche: Weitere Konkretisierung und Aufteilung
+
+heute bis 04.02.: Vorrecherche und Pretest
+05.02. - Ende Februar: Recherche und Datenerhebung, parallel Aktualisierung Edge- und Nodelist
+08.03. Abgabe Datensatz
+
