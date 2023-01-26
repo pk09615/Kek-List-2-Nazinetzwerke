@@ -63,10 +63,13 @@ Nationalität
 ##
 
 
-**Zeitplan**
+## Zeitplan
 Eventuelle Aufteilung nach der ersten Recherche: Weitere Konkretisierung und Aufteilung
 
 heute bis 04.02.: Vorrecherche und Pretest
 05.02. - Ende Februar: Recherche und Datenerhebung, parallel Aktualisierung Edge- und Nodelist
 08.03. Abgabe Datensatz
+
+## Projektmanagement
+Da wir gerade noch am Anfang unserer Recherchearbeit stehen und unser Forschungsfeld zunächst eingrenzen müssen (bzgl. der zu untersuchenden Länder) können wir in der Aufgabendistribution noch keine Aussagen treffen.
 
