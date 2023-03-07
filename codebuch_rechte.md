@@ -13,63 +13,53 @@ Das Netzwerk soll die Vernetzung der rechten Parteien innerhalb der EU darstelle
 
 
 
-# EDGE-Attribute
+# Node-Attribute
 
-**from**
-Initiierender Knoten
-
-
-**to**
-erhaltender Knoten
-
-**relation**
-Beziehungsart 
-1 = Persönlicher Kontakt
-2 = Mitglied der Partei
-3 = Intellektueller Austausch
-4 = Finanzielle Unterstützung
-5 = Gegenseitige Werbung
-
-**weight**
-Beziehungsstärke
-1 = Intensive Beziehung
-2 = Gute Beziehung
-3 = Oberflächliche Beziehung
-
-
-# NODE-Attribute  
-  
-**id**  
-Eindeutige Kodierung des Knotens: Initialen der Person bzw. der Partei
-
-**id**  
-Klarname
-
-**type** 
-1 = Rechtsextreme Parteien in Regierung/nationalen Parlamenten
-2 = Parteiangeörige
-3 = Internationale Versammlungen/Kongresse im rechtem Milieu
-
-**party** 
-Parteizugehörigkeit
-
-**role** 
-Art der Beteiligung
-1 = Beteiligung an der Regierung
-2 = In der Opposition
-
-**country** 
-Nationalität
-##
-
-
-## Zeitplan
-Eventuelle Aufteilung nach der ersten Recherche: Weitere Konkretisierung und Aufteilung
-
-heute bis 04.02.: Vorrecherche und Pretest
-05.02. - Ende Februar: Recherche und Datenerhebung, parallel Aktualisierung Edge- und Nodelist
-08.03. Abgabe Datensatz
-
-## Projektmanagement
-Da wir gerade noch am Anfang unserer Recherchearbeit stehen und unser Forschungsfeld zunächst eingrenzen müssen (bzgl. der zu untersuchenden Länder) können wir in der Aufgabendistribution noch keine Aussagen treffen.
-
+id: Eindeutige Kodierung des Knotens: Initialen der Person bzw. der Partei				
+name: Klarname				
+				
+Sector: In welchem Bereich die Personen tätig sind (außerhalb ihrer Beteiligung in der Identitären)				
+1: Politik auf europäischer Ebene				
+2: Politik auf nationaler Ebene				
+3: Politik auf regionaler Ebene				
+4: Medien- und Publizistik				
+5: Nicht bekannt				
+6: Wirtschaft				
+				
+party: Parteizugehörigkeit (auf nationaler Ebene)				
+afd	Alternative für Deutschland			
+fpö	Freiheitliche Partei Österreichs			
+rn	Rassemblement National			
+				
+role: Art der Beteiligung				
+1: Gründer von der ganzen IB auf nationaler Ebene (heute noch aktiv)				
+2: führende Mitglieder: Obere Führer				
+3: aktive Mitglieder: Bestätigtes Mitglied				
+4: Sympathisanten: Im realen Leben				
+5: Sympathisanten: Auf Social Media/Propaganda/Spendenaufrufe				
+6: Förderung von Mitgliedern				
+				
+country: Nationalität				
+				
+Ereignis: Demonstration/Versammlung ausschließlich von der Identitären organisiert (nur für den Ort, ab 4/5 Personen)				
+				
+				
+# Edge-Attribute			
+from: initiierender Knoten				
+to: erhaltender Knoten				
+				
+relation: Beziehungsart				
+1: Interaktion: Definierung über Weight				
+2: Finanzielle Unterstützung				
+3: Mitglied der Partei				
+4: Förderung (Beschaffung von Arbeitsplätzen)				
+5: Anwesenheit				
+				
+				
+weight: Beziehungsstärke				
+1: Familie (Verwandschaft & Verheiratet)				
+2: Intensive Beziehung (Öftere Treffen, Kaffee trinken, Intensiver Austausch, Vertrauensverhältnis)				
+3: Gute Beziehung (Gelegentliche Treffen, Austausch)				
+4: Oberflächliche Beziehung (einmalige Interaktion, im realen Leben (z.B. Foto, mündl. Verteidigung von IB-Mitgliedern), auf Social Media (z.B. Tweet, einmaliger (Re-)Post, schriftl. Verteidigung von IB-Mitgliedern)				
+5: Spendenverhätnis				
+6: Keine Beziehung		
