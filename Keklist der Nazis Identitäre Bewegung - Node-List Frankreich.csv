@@ -1,6 +1,6 @@
 Frankreich,,,,,,
-,,,,,,
-id,name,sector ,party,role ,country,ereignis
+,,,,,
+id,name,sector,party,role,country,ereignis,
 fav,Aurélien Verhassel,5,,3,französisch,
 fcl,Christelle Lechevalier,1,rn,4,französisch,
 fsg,Sylvie Goddyn,1,rn,4,französisch,
@@ -14,7 +14,7 @@ fsc,Sebastian Chenu,2,rn,4,französisch,
 fpe,Phillipe Eymery,3,rn,6,französisch,
 fpl,Pierre Larti ,5,,3,französisch,
 frm,Remi Meurin ,3,rn,3,französisch,
-citadelle,"Bar ""La Citadelle""",,,,französisch,ja
+citadelle,Bar La Citadelle,,,,französisch,ja
 fdl,Damien Lefèvre ,5,,3,französisch,
 fjb,Jordan Bardella,2,rn,5,französisch,
 fcg,Clément Gandelin,5,,2,französisch,
