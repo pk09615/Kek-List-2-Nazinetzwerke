@@ -1,0 +1,45 @@
+from	to	relation	weight
+cl	citadelle	5	
+sg	citadelle	5	
+nb	citadelle	5	
+fc	citadelle	5	
+av	citadelle	5	
+nc	citadelle	5	
+fc	nc	1	3
+nc	mlp	1	2
+nb	mlp	1	2
+fc	mlp	1	2
+mmlp	mlp	1	1
+mmlp	cg	1	4
+mmlp	re	1	4
+av	sc	1	3
+pe	pl	4	
+pe	rm	1	2
+pe	mlp	1	3
+av	sc	1	2
+jb	mlp	1	2
+cg	dl	1	3
+dl	re	1	3
+re	cg	1	3
+dl	sc	1	4
+pv	mmlp	4	
+po	mlp	1	2
+po	dl	1	2
+ecd	rf	1	3
+sc	ate	4	
+ate	re	1	2
+re	fs	1	2
+ate	fs	1	2
+ate	jp	1	2
+re	jp	1	2
+fs	jp	1	2
+gb	pv	1	3
+gc	dl	1	2
+pe	av	4	
+jp	sr	1	3
+jp	ate	1	2
+jp	fs	1	2
+jp	re	1	2
+nb	pv	1	2
+fgp	fnb	4	
+			
