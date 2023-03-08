@@ -9,7 +9,7 @@ erstellt von Florian Frankenhuis (ff059@hdm-stuttgart.de)
 
 ## Ursprung und Datenerhebung
 
-Das Netzwerk soll die Vernetzung der rechten Parteien innerhalb der EU darstellen.
+Das Netzwerk soll die Vernetzung der identitären Jugendbewegung mit der Politik innerhalb der EU darstellen.
 
 
 
@@ -41,7 +41,9 @@ role: Art der Beteiligung
 				
 country: Nationalität				
 				
-Ereignis: Demonstration/Versammlung ausschließlich von der Identitären organisiert (nur für den Ort, ab 4/5 Personen)				
+Ereignis: Demonstration/Versammlung ausschließlich von der Identitären organisiert (nur für den Ort, ab 4/5 Personen)
+Orga: Identitäre Bewegung
+Partei: Freiheitliche Partei Deutschlands (FPÖ)
 				
 				
 # Edge-Attribute			
