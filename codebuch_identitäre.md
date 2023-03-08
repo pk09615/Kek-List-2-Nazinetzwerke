@@ -1,5 +1,5 @@
-# Datensatz Rechte Parteien innerhalb der EU #
-Codebuch Stand 2023-01
+# Datensatz Verbindung der Identitären Jugendbewegung und der Politik innerhalb der EU #
+Codebuch Stand 2023-03
 erstellt von Florian Frankenhuis (ff059@hdm-stuttgart.de)
 
 ## Inhalt
