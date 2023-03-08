@@ -8,5 +8,5 @@ ohps,oml,1,3
 omh,oup,4,6
 omss,odk,4,6
 bt,oms,2,5
-omk,omss,1,4
-ogd,omss,1,4
+omss,omk,1,4
+omss,ogd,1,4
