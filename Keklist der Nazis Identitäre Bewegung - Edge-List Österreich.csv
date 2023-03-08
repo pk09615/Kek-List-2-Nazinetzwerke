@@ -1,0 +1,12 @@
+from,to,relation,weight
+ocp,obc,4,6
+obk,odk,4,6
+ohk,oah,4,6
+ohs,oms,1,4
+ohps,oam,1,4
+ohps,oml,1,3
+omh,oup,4,6
+omss,odk,4,6
+bt,oms,2,5
+omk,omss,1,4
+ogd,omss,1,4
